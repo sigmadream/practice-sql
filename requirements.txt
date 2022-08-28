@@ -1,0 +1,5 @@
+pandas
+seaborn
+jupyterlab
+sqlalchemy
+psycopg2
